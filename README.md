@@ -1,4 +1,4 @@
-# PUC Minas - Sistemas de Informação - Tecnologias Web 
+# PUC Minas - Sistemas de Informação - Laboratório de Sistemas de Informação
 
 <p> Este repositório foi criado para um trabalho universitário sobre o framework Angular, no qual construímos um sistema de lista de contatos.
 
