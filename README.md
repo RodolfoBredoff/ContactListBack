@@ -10,7 +10,7 @@
   
   > https://www.countryflags.io/ : Para obter as bandeiras dos países origem de cada contato ;
 
- > <a href="https://github.com/Neemias-S/ContactList" target="_blank">`Repositório Backend`</a> : Projeto em Spring
+ > <a href="https://github.com/rodolfobredoff/ContactList" target="_blank">`Repositório Backend`</a> : Projeto em Spring
 
 ## Como rodar o projeto:
 
@@ -27,7 +27,7 @@
  Adicione á variável PATH, já existente,  a variável abaixo, que faz referência a cirada anteriormente mas agora o alvo é a pasta bin:
   >  %Maven_Home%\bin
 
- 4 : Para clonar o projeto, entre no diretório desejado, abra o prompt de comando e execute : `git clone https://github.com/Neemias-S/ContactListBack.git`
+ 4 : Para clonar o projeto, entre no diretório desejado, abra o prompt de comando e execute : `git clone https://github.com/rodolfobredoff/ContactListBack.git`
 
  5 : Agora vamos instalar o PostgresSQL. O projeto está configurado para ouvir a porta 5432, com as informações de autenticação abaixo:
     
@@ -38,4 +38,4 @@
 
  6 : Abra o prompt de comando no diretório que acabou de clonar e execute : `mvn spring-boot:run`
 
- 7 : Prontinho, agora basta seguir os passos do projeto front end seguindo este link : <a href="https://github.com/Neemias-S/ContactList" target="_blank"> Projeto Angular </a>
+ 7 : Prontinho, agora basta seguir os passos do projeto front end seguindo este link : <a href="https://github.com/rodolfobredoff/ContactList" target="_blank"> Projeto Angular </a>
